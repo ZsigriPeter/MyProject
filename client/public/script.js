@@ -1,5 +1,5 @@
 /* eslint-disable max-len */
-import { products } from '/data.js';
+//import { products } from '/data.js';
 import { fs } from '../../index.js';
 
 const makeGameArea = function (){
